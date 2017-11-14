@@ -1,0 +1,5 @@
+.nginx-conf.d
+logs/*
+ssl/letsencrypt/*
+ssl/nginx-certs/*
+conf/*
